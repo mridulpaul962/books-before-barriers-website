@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact - Books Before Barriers</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+    <header>
+        <nav class="navbar">
+            <a href="index.html" class="nav-logo">Books Before Barriers</a>
+            <ul class="nav-menu">
+                <li class="nav-item"><a href="index.html" class="nav-link">Home</a></li>
+                <li class="nav-item"><a href="about.html" class="nav-link">About Us</a></li>
+                <li class="nav-item"><a href="volunteer.html" class="nav-link">Volunteer</a></li>
+                <li class="nav-item"><a href="contact.html" class="nav-link active">Contact</a></li>
+                <li class="nav-item"><a href="https://www.gofundme.com" target="_blank" class="nav-link donate-button">Donate</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section class="content-section">
+            <div class="container">
+                <h2>Get In Touch</h2>
+                <p>We'd love to hear from you! Whether you have a question, a suggestion, or want to partner with us, feel free to reach out.</p>
+                <p><strong>Email:</strong> <a href="mailto:contact@booksbeforebarriers.org">contact@booksbeforebarriers.org</a></p>
+                <p><strong>Mailing Address:</strong> 123 Literacy Lane, Reading Town, USA 12345</p>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Books Before Barriers. All Rights Reserved.</p>
+    </footer>
+
+</body>
+</html>

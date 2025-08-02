@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Us - Books Before Barriers</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+    <header>
+        <nav class="navbar">
+            <a href="index.html" class="nav-logo">Books Before Barriers</a>
+            <ul class="nav-menu">
+                <li class="nav-item"><a href="index.html" class="nav-link">Home</a></li>
+                <li class="nav-item"><a href="about.html" class="nav-link active">About Us</a></li>
+                <li class="nav-item"><a href="volunteer.html" class="nav-link">Volunteer</a></li>
+                <li class="nav-item"><a href="contact.html" class="nav-link">Contact</a></li>
+                <li class="nav-item"><a href="https://www.gofundme.com" target="_blank" class="nav-link donate-button">Donate</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section class="content-section">
+            <div class="container">
+                <h2>Our Team</h2>
+                <p class="team-intro">We are a passionate group of educators, community leaders, and volunteers dedicated to the cause of literacy.</p>
+
+                <div class="team-grid">
+                    <div class="team-card">
+                        <img src="images/founder1.jpg" alt="Photo of Jane Doe">
+                        <h3>Jane Doe</h3>
+                        <p class="title">Founder & Executive Director</p>
+                    </div>
+                    <div class="team-card">
+                        <img src="images/cofounder1.jpg" alt="Photo of John Smith">
+                        <h3>John Smith</h3>
+                        <p class="title">Co-Founder & Program Director</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Books Before Barriers. All Rights Reserved.</p>
+    </footer>
+
+</body>
+</html>
